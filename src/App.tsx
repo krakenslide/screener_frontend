@@ -1,4 +1,3 @@
-import React from 'react';
 import { Routes, Route } from "react-router-dom";  // Corrected from Routers to Routes
 import HomePage from "./Pages/HomePage.tsx";
 
